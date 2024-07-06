@@ -18,7 +18,7 @@
 **                                                                    **
 ** ****************************************************************** */
                                                                        
-// Written: fmk 
+// Written: ADIL 
 // Created: 11/14
 
 // this class is based on the S5 solver, written to work with Cula
